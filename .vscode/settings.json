@@ -1,0 +1,33 @@
+{
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "explorer.confirmDelete": false,
+    "editor.fontFamily": "Source Code Pro, Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontWeight": "200",
+    "editor.fontSize": 16,
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "vsicons.dontShowNewVersionMessage": false,
+    "editor.formatOnPaste": false,
+    "workbench.colorTheme": "Monokai Dimmed",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "afterDelay",
+    "window.zoomLevel": 0,
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "editor.formatOnType": true,
+    "debug.console.fontSize": 18,
+    "debug.console.fontFamily": "default",
+    "terminal.integrated.fontFamily": "Source Code Pro, Menlo, Monaco",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.defaultProfile.osx": "bash",
+    "terminal.integrated.fontWeight": "600",
+    "python.pythonPath": "./venv/bin/python",
+    "code-runner.executorMap": {
+        "python": "$pythonPath -u $fullFileName"
+    },
+    "code-runner.showExecutionMessage": false,
+    "code-runner.clearPreviousOutput": true
+}
